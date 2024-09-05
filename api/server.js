@@ -1,7 +1,7 @@
 import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-import formsRoutes from "./routes/forms.js";
+import formsRoutes from "../routes/forms.js";
 
 dotenv.config();
 
